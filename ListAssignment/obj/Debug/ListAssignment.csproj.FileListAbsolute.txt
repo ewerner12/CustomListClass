@@ -1,0 +1,6 @@
+C:\Users\Eric Werner\Documents\Visual Studio 2015\Projects\ListAssignment\ListAssignment\bin\Debug\ListAssignment.exe.config
+C:\Users\Eric Werner\Documents\Visual Studio 2015\Projects\ListAssignment\ListAssignment\obj\Debug\ListAssignment.csprojResolveAssemblyReference.cache
+C:\Users\Eric Werner\Documents\Visual Studio 2015\Projects\ListAssignment\ListAssignment\bin\Debug\ListAssignment.exe
+C:\Users\Eric Werner\Documents\Visual Studio 2015\Projects\ListAssignment\ListAssignment\bin\Debug\ListAssignment.pdb
+C:\Users\Eric Werner\Documents\Visual Studio 2015\Projects\ListAssignment\ListAssignment\obj\Debug\ListAssignment.exe
+C:\Users\Eric Werner\Documents\Visual Studio 2015\Projects\ListAssignment\ListAssignment\obj\Debug\ListAssignment.pdb
